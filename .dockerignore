@@ -1,0 +1,4 @@
+.vscode/**
+imgs/**
+data/scrubbed.csv
+data/ufo_sightings.csv
